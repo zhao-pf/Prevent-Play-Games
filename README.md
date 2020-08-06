@@ -2,8 +2,7 @@
 ![](https://raw.githubusercontent.com/zhao-pf/Prevent-Play-Games/master/image/img.jpg)  
 免Root不让他玩游戏安装游戏
 <!--more-->
-# 开撸-新建一个Android项目
-GitHub项目:[https://github.com/zhao-pf/Prevent-Play-Games](https://github.com/zhao-pf/Prevent-Play-Games "https://github.com/zhao-pf/Prevent-Play-Games")
+# 开撸-新建一个Android项目  
 1.直接创建一个空的接收者
 ```java
 public class mDeviceAdminReceiver extends DeviceAdminReceiver {
